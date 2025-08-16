@@ -1,12 +1,12 @@
-# 🧠 3D Neural Network Visualizer in OpenGL
+#  3D Neural Network Visualizer in OpenGL
 
-## 📌 Overview
+##  Overview
 This project visualizes the architecture and inference process of a trained neural network **in 3D** using OpenGL.  
 It shows **neurons**, **connections**, and **activations** lighting up in real time as input flows through the network.
 
 ---
 
-## 🚀 Features
+##  Features
 - 3D rendering of neurons (spheres) and connections (lines)
 - Animated inference: activations light up layer by layer
 - Color-coded activations and weight strengths
@@ -15,12 +15,12 @@ It shows **neurons**, **connections**, and **activations** lighting up in real t
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 
 
-📊 Dataset
+ Dataset
 We use the MNIST dataset, which contains:
 
 60,000 training images
@@ -29,7 +29,7 @@ We use the MNIST dataset, which contains:
 
 28×28 grayscale pixels
 
-🛠️ How it Works
+ How it Works
 Train a neural network on MNIST
 
 Extract weights, biases, and activations
@@ -38,7 +38,7 @@ Render them in 3D with OpenGL
 
 Animate the data flow from input to output
 
-🔮 Future Work
+ Future Work
 Support CNN architectures
 
 Add real-time training visualization
