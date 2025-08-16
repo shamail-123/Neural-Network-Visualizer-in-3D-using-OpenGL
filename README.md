@@ -20,7 +20,7 @@ It shows **neurons**, **connections**, and **activations** lighting up in real t
 
 
 
- Dataset
+## Dataset
    We use the MNIST dataset, which contains:
 
    60,000 training images
@@ -30,7 +30,7 @@ It shows **neurons**, **connections**, and **activations** lighting up in real t
    28×28 grayscale pixels
 
 
- How it Works
+## How it Works
    Train a neural network on MNIST
 
    Extract weights, biases, and activations
@@ -40,7 +40,7 @@ It shows **neurons**, **connections**, and **activations** lighting up in real t
    Animate the data flow from input to output
 
 
- Future Work
+## Future Work
    Support CNN architectures
 
    Add real-time training visualization
