@@ -21,26 +21,28 @@ It shows **neurons**, **connections**, and **activations** lighting up in real t
 
 
  Dataset
-We use the MNIST dataset, which contains:
+   We use the MNIST dataset, which contains:
 
-60,000 training images
+   60,000 training images
 
-10,000 test images
+   10,000 test images
 
-28×28 grayscale pixels
+   28×28 grayscale pixels
+
 
  How it Works
-Train a neural network on MNIST
+   Train a neural network on MNIST
 
-Extract weights, biases, and activations
+   Extract weights, biases, and activations
 
-Render them in 3D with OpenGL
+   Render them in 3D with OpenGL
 
-Animate the data flow from input to output
+   Animate the data flow from input to output
+
 
  Future Work
-Support CNN architectures
+   Support CNN architectures
 
-Add real-time training visualization
+   Add real-time training visualization
 
-WebGL version for browser
+   WebGL version for browser
